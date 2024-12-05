@@ -35,6 +35,7 @@ Steven Jumbo (Función Pausar)
 Domenica Rojas (Función Detener)
 Luis Ríos (Función Iniciar)
 
-JOs
+JOsn
+
 
 > > > > > > > 67ca160e4f79d2b184496826780663b2adf08c1c
